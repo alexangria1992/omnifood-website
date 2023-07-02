@@ -9,4 +9,12 @@ html {
   color: #555;
   font-family: "Lato", "Arial", sans-serif;
   font-size: 20px;
+  font-weight: 20px;
+  text-rendering: optimizeLegibility;
+}
+
+.row {
+  max-width: 1140px;
+  margin: 0 auto;
+  border: 1px solid red;
 }
