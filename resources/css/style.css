@@ -136,3 +136,8 @@ header {
 .main-nav li a:active {
   border-bottom: 2px solid #cf6d17;
 }
+
+/* FEATURES SECTION */
+.span-1-of-4 {
+  border: 1px solid green;
+}
